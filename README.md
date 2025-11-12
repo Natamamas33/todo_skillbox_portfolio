@@ -5,7 +5,7 @@ TODO. Список дел
 Учебный проект список дел на чистом JS от Skillbox
 
 ## Демо
-
+Проект доступен по ссылке: https://natamamas33.github.io/todo_skillbox_portfolio/
 
 ## Технологии
 - HTML5
